@@ -1,2 +1,2 @@
 # tic-tac-toe.js
-Created with CodeSandbox
+this application is my fisrt app i made of in .js
